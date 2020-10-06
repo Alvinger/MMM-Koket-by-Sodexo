@@ -1,6 +1,11 @@
 # MMM-Koket-by-Sodexo
 A [MagicMirror²](https://github.com/MichMich/MagicMirror) module that shows school lunch menus in Sweden from Köket by Sodexo (sodexo.mashie.com/public/app).
 
+# THIS MODULE IS DEPRECATED
+Köket by Sodexo uses the Mashie app. Mashie provides lunch menus for many suppliers. Therefore this module is deprecated and replaced by MMM-Mashie-Skolmat (https://github.com/Alvinger/MMM-Mashie-Skolmat). It is only a name change, the functionality and code is exactly the same but further developments will only be done on MMM-Mashie-Skolmat.
+
+To migrate to MMM-Mashie-Skolmat, install the new module and change "MMM-Koket-by-Sodexo" to "MMM-Mashie-Skolmat" in the config.js file.
+
 # Installation
 1. Clone repo:
 ```
